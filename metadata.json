@@ -1,0 +1,7 @@
+{
+  "name": "MedGuard Inventory AI",
+  "description": "Enterprise-grade medical inventory management system with AI-driven predictive analytics and real-time stock monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
